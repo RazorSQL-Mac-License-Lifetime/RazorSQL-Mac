@@ -1,6 +1,6 @@
 # RazorSQL Professional License
 
-<img src="https://static.macupdate.com/products/9695/d/phpj0kcli-logo.png" width="200" alt="App icon" align="left"/>
+<img src="https://iloadzonev2.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2019/12/agi32-gpj1s.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>RazorSQL for macOS</h3>
